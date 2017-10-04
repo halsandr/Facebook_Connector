@@ -1,5 +1,6 @@
 # Facebook_Connector
 **Google Data Studio Community Connector for Facebook Insights.**
+
 [![Facebook Connector](https://img.shields.io/github/tag/halsandr/Facebook_Connector.svg)](https://github.com/halsandr/Facebook_Connector)
 
 Follow the setup from [here](https://github.com/googlesamples/apps-script-oauth2) to get the OAuth2 working, dont forget to fill in the `CLIENT_ID` and `CLIENT_SECRET` at the top of `Facebook_OAuth2.gs`.
