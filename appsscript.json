@@ -1,0 +1,23 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "OAuth2",
+      "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+      "version": "21"
+    }]
+  },
+  "webapp": {
+    "access": "MYSELF",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "dataStudio": {
+    "name": "Facebook Connector",
+    "logoUrl": "http://tests.shuttlefi.sh/tests/images/fish_dark.png",
+    "company": "Shuttlefish Creative",
+    "addonUrl": "http://shuttlefi.sh/",
+    "supportUrl": "http://shuttlefi.sh/",
+    "description": "This connector uses the Facebook Graph API to retrieve Analytics from Facebook."
+  }
+}
+
