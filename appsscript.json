@@ -1,10 +1,10 @@
 {
-  "timeZone": "America/Los_Angeles",
+  "timeZone": "Europe/London",
   "dependencies": {
     "libraries": [{
       "userSymbol": "OAuth2",
       "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
-      "version": "21"
+      "version": "22"
     }]
   },
   "webapp": {
@@ -20,4 +20,3 @@
     "description": "This connector uses the Facebook Graph API to retrieve Analytics from Facebook."
   }
 }
-

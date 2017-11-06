@@ -4,8 +4,8 @@
  * https://developers.facebook.com/apps/
  */
 
-var CLIENT_ID = '###############';
-var CLIENT_SECRET = '################################';
+var CLIENT_ID = '##############';
+var CLIENT_SECRET = '############################';
 
 /*
  * Authorizes and makes a request to the Facebook API.
